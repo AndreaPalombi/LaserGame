@@ -1,6 +1,8 @@
 # LaserGame
+In this game the player must avoid bouncing lasers. The longer he survives, the higher the score. 
+It is also possible to purchase boosts to facilitate the game, consuming points.
+This game supports two mode: Normal and Hard.
 
-This is a Java Game where player have to escape from bouncing lasers. 
-High score depends from how long player survives. 
-The game supports two mode: Normal and Hard.
-Is it possible buy boosts consuming score points to get the game easier.
+With small code changes (guide in the program comments) you can add other players, and change the difficulty by modifying the spawn of enemies.
+
+All musics within the game are open licence.
